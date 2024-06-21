@@ -1,0 +1,7 @@
+[
+    {
+        "server": "picoquic",
+        "client": "picoquic",
+        "cc": "cubic"
+    }
+]

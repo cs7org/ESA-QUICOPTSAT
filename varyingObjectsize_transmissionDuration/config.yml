@@ -1,0 +1,16 @@
+endpoints:
+  server:
+    hostname:       "131.188.x.y"
+    user:           "myUsername"
+    port:           "22"
+    quiche_port:    "4433"
+    picoquic_port:  "4443"
+    ic_internal:    "eth0"
+    file_path:      "$HOME/testcases"
+  client:
+    hostname:       "127.0.0.1"
+    user:           "myUsername"
+    port:           "22"
+    file_path:      "$HOME/testcases"
+
+    
